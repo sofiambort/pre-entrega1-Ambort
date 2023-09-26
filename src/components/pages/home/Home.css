@@ -1,0 +1,19 @@
+.portada {
+  width: 100%;
+  height: auto;
+  margin-top: 1.875rem;
+  margin-bottom: 6.25rem;
+}
+
+.agregar-carrito {
+  background-color: rgba(190, 106, 190, 0.334);
+  padding: 0.625rem;
+  border-radius: 0.3125rem;
+  border-style: none;
+  margin-left: 20px;
+}
+
+.agregado {
+  font-size: 1.25rem;
+  padding: 0.625rem;
+}

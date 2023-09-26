@@ -1,0 +1,23 @@
+.cartWidget {
+  padding-top: 3.125rem;
+  padding-left: 3.125rem;
+}
+
+.barra {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  margin-right: 0.625rem;
+  padding: 0.3125rem;
+  border-color: rgba(223, 210, 210, 0.29);
+}
+
+.barra:focus {
+  border: 0.125rem solid rgba(214, 163, 180, 0.321);
+  outline: none;
+}
+
+.barra:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
